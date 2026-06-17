@@ -5,7 +5,7 @@
 </div>
 
 ## About me
-I'm a 19 year old developer from Canada. I currently work a lot with C#, powershell, and python.
+I'm a 20 year old developer from Canada. I currently work a lot with C#, powershell, TypeScript and python.
 
 ### Projects & Contributions
 I am currently focusing a lot of my time on the <a href="https://github.com/atlas-os" target="_blank">AtlasOS</a> project.
